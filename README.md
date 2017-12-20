@@ -2,19 +2,32 @@
 
 
 Type	LibDescription	 	LibLocation
+
 Android	SlidingMenu	 	https://github.com/jfeinstein10/SlidingMenu
  	 	 	https://github.com/SpecialCyCi/AndroidResideMenu
  	 	 	https://github.com/SimonVT/android-menudrawer
+      
+      
  	ActionBar	 	https://github.com/ManuelPeinado/FadingActionBar
+  
+  
  	模仿Path菜单	 	https://github.com/siyamed/android-satellite-menu
  	 	 	https://github.com/daCapricorn/ArcMenu
  	 	 	https://github.com/dodola/PathButton
+      
+      
  	时间选择控件	 	https://github.com/vanniktech/VNTNumberPickerPreference
+  
+  
  	字体	 	https://github.com/vanniktech/VNTFontListPreference
  	 	 	https://github.com/chrisjenx/Calligraphy
+      
+      
  	滚动条选择	 	https://github.com/ai212983/android-spinnerwheel
  	 	 	https://github.com/maarek/android-wheel
  	 	 	https://github.com/Todd-Davies/ProgressWheel
+      
+      
  	时间选择	 	https://github.com/square/android-times-square
  	图片处理/缓存	 	https://github.com/christophesmet/android_maskable_layout
  	 	 	https://github.com/Pkmmte/CircularImageView
